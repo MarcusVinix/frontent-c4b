@@ -429,23 +429,23 @@ export const FooterConfiguration = {
     list: [
         {
             title: 'Sobre nós',
-            text: 'Banco ABC Brasil',
-            link: 'https://www.abcbrasil.com.br/quem-somos/'
+            text: 'C4B - Voyager',
+            link: 'https://github.com/42voyager'
         },
         {
             title: 'SAC',
-            text: '0800 724 74 11',
+            text: '0888 888 88 99',
             link: ''
         },
         {
             title: 'Ouvidoria',
-            text: '800-725-7595',
+            text: '845-333-5555',
             link: ''
         },
         {
             title: 'Localização',
-            text: 'Avenida Cidade Jardim, 803 – 2º andar Itaim Bibi –' +
-                'São Paulo-SP – 01453-000 CNPJ: 28.195.667/0001-06',
+            text: 'Bairro Rua do Sol, 803 – 2º andar Gotham City –' +
+                'São Paulo-SP – 01453-000 CNPJ: 54.4545.4545/44445-60',
             link: ''
         }
     ]
